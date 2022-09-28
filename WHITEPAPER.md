@@ -21,7 +21,7 @@
 
 
 
-PBC Coin 
+PBC Smart Chain 
 
 Whitepaper v3.4
 September 2022
